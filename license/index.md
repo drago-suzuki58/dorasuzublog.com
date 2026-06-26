@@ -11,7 +11,7 @@ date: 2025-11-14 16:36:29
 
 ## CC BY-NC-NDについて
 
-CC BY-NC-NDは、表示-非営利-改変禁止のライセンスであり、**「適切なクレジットの表示」**をし、**「営利目的の使用の禁止」**と、**「コンテンツの改変の禁止」**を定めるものです。
+CC BY-NC-NDは、表示-非営利-改変禁止のライセンスであり、**「適切なクレジットの表示」** をし、 **「営利目的の使用の禁止」** と、 **「コンテンツの改変の禁止」** を定めるものです。
 
 CC BY-NC-NDの詳細については、creativecommons.orgの以下のページを参照してください
 [https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
