@@ -10,7 +10,7 @@ category:
 date: 2023-02-20 20:10:31
 ---
 
-![](https://dorasuzublog.com/wp-content/uploads/2023/02/2023-02-22_01.19.43.png)
+![](/images/posts/games/minecraft/stacker/stacker-01.png)
 
 どうも、どらすずです。
 
@@ -73,7 +73,7 @@ https://dorasuzublog.com/game/minecraft-mod/03/mod-introduction/
 
 メニューはこんな感じになっていて、かなり使いやすいです。
 
-![](https://dorasuzublog.com/wp-content/uploads/2023/03/image-25-1024x596.png)
+![](/images/posts/games/minecraft/stacker/stacker-02.png)
 
 https://www.curseforge.com/minecraft/mc-mods/stackerより引用
 
@@ -87,11 +87,11 @@ https://www.curseforge.com/minecraft/mc-mods/stackerより引用
 
 この青いhereという場所を押すと初期設定が開始され、
 
-![](https://dorasuzublog.com/wp-content/uploads/2023/03/image-26-1024x290.png)
+![](/images/posts/games/minecraft/stacker/stacker-03.png)
 
 https://www.curseforge.com/minecraft/mc-mods/bigger-stacksより引用
 
-![](https://dorasuzublog.com/wp-content/uploads/2023/03/2023-03-17_17.11.15-1024x576.jpg)
+![](/images/posts/games/minecraft/stacker/stacker-04.jpg)
 
 このような感じに、普通のアイテム、エンチャントされた本、ポーションのスタック数をそれぞれ変更できます。
 
@@ -101,7 +101,7 @@ https://www.curseforge.com/minecraft/mc-mods/bigger-stacksより引用
 
 MODをインストールするとconfigフォルダに**stackup.cfg**というファイルが作られるので、その中の
 
-![](https://dorasuzublog.com/wp-content/uploads/2023/03/image-27.png)
+![](/images/posts/games/minecraft/stacker/stacker-05.png)
 
 という文字列の**maxStackSize**を変更することでスタックの上限を変更できます。
 
