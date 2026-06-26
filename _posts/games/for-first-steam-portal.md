@@ -6,6 +6,7 @@ tags:
 category:
   - games
 date: 2024-12-25 15:11:14
+thumbnail: /images/posts/games/for-first-steam-portal/for-first-steam-portal-01.jpg
 ---
 
 ![Portalのプレイ画面](/images/posts/games/for-first-steam-portal/for-first-steam-portal-01.jpg)

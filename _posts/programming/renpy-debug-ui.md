@@ -9,6 +9,7 @@ tags:
 category:
   - programming
 date: 2025-07-17 10:11:31
+thumbnail: /images/posts/programming/renpy-debug-ui/renpy-debug-ui-01.jpg
 ---
 
 ![](/images/posts/programming/renpy-debug-ui/renpy-debug-ui-01.jpg)

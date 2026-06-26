@@ -8,6 +8,7 @@ tags:
 category:
   - games/minecraft
 date: 2023-05-14 18:23:19
+thumbnail: /images/posts/games/minecraft/industry-5/industry-5-01.jpg
 ---
 
 ![](/images/posts/games/minecraft/industry-5/industry-5-01.jpg)

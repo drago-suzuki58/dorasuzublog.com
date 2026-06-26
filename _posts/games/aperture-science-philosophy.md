@@ -6,6 +6,7 @@ tags:
 category:
   - games
 date: 2024-12-27 17:21:55
+thumbnail: /images/posts/games/aperture-science-philosophy/aperture-science-philosophy-01.jpg
 ---
 
 ビデオゲームの世界において、**Aperture Science**という企業ほど、創造性と狂気、そして悲劇的な失敗を体現している存在は稀だろう。

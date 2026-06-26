@@ -8,6 +8,7 @@ tags:
 category:
   - games/minecraft
 date: 2023-02-20 20:10:31
+thumbnail: /images/posts/games/minecraft/stacker/stacker-01.png
 ---
 
 ![](/images/posts/games/minecraft/stacker/stacker-01.png)

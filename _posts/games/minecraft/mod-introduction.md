@@ -9,6 +9,7 @@ tags:
 category:
   - games/minecraft
 date: 2023-03-01 08:00:00
+thumbnail: /images/posts/games/minecraft/mod-introduction/mod-introduction-01.jpg
 ---
 
 ![](/images/posts/games/minecraft/mod-introduction/mod-introduction-01.jpg)

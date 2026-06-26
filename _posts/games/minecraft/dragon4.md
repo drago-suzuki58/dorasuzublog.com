@@ -8,6 +8,7 @@ tags:
 category:
   - games/minecraft
 date: 2023-02-20 02:14:36
+thumbnail: /images/posts/games/minecraft/dragon4/dragon4-01.jpg
 ---
 
 ![](/images/posts/games/minecraft/dragon4/dragon4-01.jpg)
