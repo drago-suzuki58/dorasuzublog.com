@@ -3,7 +3,7 @@ title: 【Portal】Aperture Scienceの失敗に学ぶ、科学技術と倫理の
 tags:
   - Portal
   - Steam
-category:
+categories:
   - games
 date: 2024-12-27 17:21:55
 thumbnail: /images/posts/games/aperture-science-philosophy/aperture-science-philosophy-01.jpg

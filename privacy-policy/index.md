@@ -1,8 +1,7 @@
 ---
 title: プライバシーポリシー
 tags: []
-categories:
-  - uncategorized
+categories: []
 comments: false
 date: 2023-02-15 00:42:56
 ---

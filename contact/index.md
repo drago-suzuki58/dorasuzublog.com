@@ -1,8 +1,7 @@
 ---
 title: お問い合わせ
 tags: []
-categories:
-  - uncategorized
+categories: []
 comments: false
 date: 2023-02-23 02:09:13
 ---

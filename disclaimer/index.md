@@ -1,8 +1,7 @@
 ---
 title: 免責事項
 tags: []
-categories:
-  - uncategorized
+categories: []
 comments: false
 date: 2023-02-20 20:07:35
 ---
